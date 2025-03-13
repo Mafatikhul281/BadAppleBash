@@ -1,4 +1,4 @@
-# BadAppleBash
+# BadApplee
 
 ![Design sem nome](https://github.com/user-attachments/assets/329e599e-2284-4d9d-8936-3c166f85334d)
 
