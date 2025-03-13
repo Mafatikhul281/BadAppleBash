@@ -65,8 +65,6 @@ printf "\033c"
 
 # Play animation
 for filename in $(ls -v "$FRAMES_DIR"); do
-    # Move cursor to top-left
-    tput cup 0 0
     
     # Construct full file path
     file="${FRAMES_DIR}/$filename"
